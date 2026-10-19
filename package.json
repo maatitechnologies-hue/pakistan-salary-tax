@@ -1,0 +1,13 @@
+{
+  "name": "pakistan-salary-tax",
+  "version": "1.0.0",
+  "description": "Pakistan income tax on salary for Tax Year 2027 (2026-27) and 2026, from the FBR Income Tax Ordinance text. Dependency-free, browser and Node.",
+  "main": "src/pakistan-salary-tax.js",
+  "scripts": { "test": "node --test test/tax.test.cjs" },
+  "keywords": ["pakistan", "income tax", "salary tax", "fbr", "tax calculator", "2026-27"],
+  "author": "Maati Tech Private Limited (https://mentormakers.pk)",
+  "license": "MIT",
+  "homepage": "https://mentormakers.pk/tools/pakistan-tax-calculator",
+  "repository": { "type": "git", "url": "https://github.com/maatitechnologies-hue/pakistan-salary-tax.git" },
+  "engines": { "node": ">=18" }
+}
